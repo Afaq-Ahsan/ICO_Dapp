@@ -1,0 +1,63 @@
+.main_container {
+  background-color: black;
+  color: aliceblue;
+  margin-top: 0%;
+  border: 1px solid purple;
+  display: inline-block;
+  margin-left: 360px;
+  height: 800px;
+  border-radius: 20px;
+  margin-top: 15px;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(1, 1, 1, 1.2), 0 6px 20px 0 rgba(1, 1, 1, 1.19);
+}
+
+.Top_Address {
+  margin-left: 700px;
+  font-size: large;
+  padding: 10px;
+}
+.PTPS {
+  text-align: center;
+}
+.Navbar_div {
+  background-color: purple;
+  color: white;
+}
+.button1 {
+  color: white;
+  background-color: red;
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+.button2 {
+  color: white;
+  background-color: red;
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-left: 15px;
+
+}
+.row55 {
+  margin-left: 165px;
+  padding: 70x;
+}
+.input_field{
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: purple;
+  text-decoration: solid;
+  color: white;
+}
+.Marquee_tag{
+font-size: large;
+  
+}
